@@ -67,10 +67,12 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 ### Prerequisites
 
 In order to run this project you need:
+Install npm for Installing all the dependencies
+Run
 
-.npm
- npm init -y
- npx hint .
+npm init -y
+
+npx hint .
 
 ### Setup
 
