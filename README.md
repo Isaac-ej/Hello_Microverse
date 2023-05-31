@@ -1,17 +1,4 @@
 <a name="readme-top"></a>
-
-<
-
-
-<div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
- 
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
-
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -37,30 +24,34 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hell_Microverse] <a name="about-project"></a>
+# 📖 [Hello_Microverse] <a name="about-project"></a>
 
  First Intro Project To The Microverse Curriculum
 <br>
 Welcome to My Project
 This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 
+<!--Tech stack --->
+
+### Tech Stack <a name="tech-stack">
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+</ul>
+
+</a>
 <!-- Features -->
 
 ### Key Features <a name="key-features">
-.Home Menu
-.Navigaton Sections
-.Sign up</a>
+- Home Menu
+- Navigation Sections
+- Sign up</a>
 
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-
-- [Live Demo Link](https://github.com/Isaac-ej/Hello_Microverse)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -69,9 +60,9 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 ## 💻 Getting Started <a name="getting-started">
   To get a local copy up and running, follow these steps.
 
-Fork the repo,
-run git clone 
-run cd my-repo
+ Fork the repo,
+ run git clone 
+ run cd my-repo
 </a>
 
 
@@ -85,26 +76,29 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this repository to your desired folder:
+ Clone this repository to your desired folder:
+  
+  .Use the following command to navigate to your desired folder:
 
-  cd my-folder
+  cd C:\Users\...
+
+  .Run the following code to clone the repository to your desired folder:
+
   git clone git@github.com:isaac-ej/Hello_microverse.git
 
+  .Run the following command to move to your cloned folder
+
+  cd Hello_Microverse
+
 ### Install
-Install this project with:
 
-run 
+Now in Your Terminal run <a name="npm">npm install</a>  to install all the Dependencies:
 
-npm init -y
-npm install --save-dev hint@7.x
-npx hint .
+<a name="npm">npm install</a>
 
 ### Usage
 
-To run the project, execute the following command:
-
-Click on Open with live server
-
+opening the project by launching the Live Server plugging in visual studio code or any other means that you know.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -116,21 +110,22 @@ Click on Open with live server
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ejama-isaac-bab607267/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
-## 🔭 Future Features <a name="future-features"></a>
-
-This  Project is about Creating a repository to Implement all the required tool To kick off The Microverse course projects.
+## 🔭 Future Features <a name="future-features">
+This is my Personnel Portfolio and I have added some new features to this repository they are as follows :
+- I have created HTML Boilerplate Template
+- The Project Title
+- Styled The Title In the CSS Stylesheet
+- More More Functionality will be soon added In the near future to 
+ Make this Portfolio as a Complete Website.
+ - will deploy this project shortly  
+</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -163,18 +158,37 @@ I would like to thank Microverse for this Great oportinute To empower us To Show
 
 <!-- FAQ (optional) -->
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="license">
+MIT License
+
+Copyright (c) [2023] [Ejama Isaac]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+</a>
 
 This project is [MIT](./LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
