@@ -46,11 +46,12 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 
 <!-- Features -->
 
-### Key Features <a name="key-features"></a>
-
+### Key Features <a name="key-features">
 .Home Menu
 .Navigaton Sections
-.Sign up
+.Sign up</a>
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -58,7 +59,6 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
 
 - [Live Demo Link](https://github.com/Isaac-ej/Hello_Microverse)
 
@@ -66,15 +66,13 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 
 <!-- GETTING STARTED -->
 
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
+## 💻 Getting Started <a name="getting-started">
+  To get a local copy up and running, follow these steps.
 
 Fork the repo,
 run git clone 
 run cd my-repo
+</a>
 
 
 ### Prerequisites
@@ -94,58 +92,25 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:isaac-ej/Hello_microverse.git
 ```
 --->
 
 ### Install
-
 Install this project with:
 
-<!--
-Example command:
+run 
 
-```sh
-  cd my-project
-  gem install
-```
---->
+npm init -y
+npm install --save-dev hint@7.x
+npx hint .
 
 ### Usage
 
 To run the project, execute the following command:
 
-<!--
-Example command:
+Click on Open with live server
 
-```sh
-  rails server
-```
---->
-
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
---->
-
-### Deployment
-
-You can deploy this project using:
-
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
