@@ -59,10 +59,8 @@ This is the Hello Microverse Project in The Microverse curriculum With HTML&CSS.
 
 ## 💻 Getting Started <a name="getting-started">
   To get a local copy up and running, follow these steps.
-
- Fork the repo,
- run git clone 
- run cd my-repo
+<br>
+ Fork the repo
 </a>
 
 
